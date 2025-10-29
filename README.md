@@ -9,7 +9,7 @@ O projeto foi desenvolvido por **Marco Antônio** para demonstrar a criação de
 ## 🚀 Tecnologias
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img ![Html](https://img.shields.io/badge/Html-ffffff?logo=dotenv&style=flat&color=f10c0c&logoColor=f5f4f1)>
   <img src="https://img.shields.io/badge/CSS-#1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-#F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
