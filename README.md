@@ -11,7 +11,7 @@ O projeto foi desenvolvido por **Marco Antônio** para demonstrar a criação de
 <div>
   <img src= https://img.shields.io/badge/Html-ffffff?logo=html5&style=flat&color=f2f9f2&logoColor=E34F26) >
   <img src=https://img.shields.io/badge/Css-ffffff?logo=css3&style=flat&color=1572B6&logoColor=1572B6)>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-#F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src=https://img.shields.io/badge/Oracle-Oracle%20Cloud%20Infrastructure-ffffff?logo=oracle&style=flat&color=8c1104&logoColor=f70606)>
 </div>
 <p>Este projeto utiliza as seguintes tecnologias:</p>
 <ul>
