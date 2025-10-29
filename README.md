@@ -9,9 +9,9 @@ O projeto foi desenvolvido por **Marco Antônio** para demonstrar a criação de
 ## 🚀 Tecnologias
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-#1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-#F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Badge HTML">
+  <img src="https://img.shields.io/badge/CSS-#1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-#F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Badge Oracle Cloud Infrastructure">
 </div>
 
 <p>Este projeto utiliza as seguintes tecnologias:</p>
