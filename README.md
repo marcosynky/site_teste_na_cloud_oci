@@ -1,4 +1,4 @@
-# 🖥️ Static Website - Teste
+# 🖥️ Site Teste - Cloud OCI
 
 ## 📖 Sobre
 
